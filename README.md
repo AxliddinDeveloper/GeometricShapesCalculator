@@ -12,21 +12,21 @@ Console.WriteLine("1. Triangle");
 Console.WriteLine("2. Rectangle");
 ```
 + a ```switch``` statement is used to determine the user's choice and execute the corresponding shape calculation method. If the user enters 1, the ```CalculateTriangle()``` method is called. If they enter 2, the ```CalculateRectangle()``` method is called. If they enter 3, the ```CalculateCircle()``` method is called. If the user enters any other number, an error message is displayed.
-![Alt text](image-4.png)
+![Switch](./Assets/image-4.png)
 
 + For each shape calculation method (CalculateTriangle(), CalculateRectangle(), and CalculateCircle()), the user is prompted to enter the required dimensions for the shape (e.g., base length and height for a triangle, length and width for a rectangle, radius for a circle).
 ```
 Circle
 ```
-![CalculateCircle()](image-1.png)
+![CalculateCircle()](./Assets/image%20copy.png)
 ```
 Triangle
 ```
-![CalculateTriangle()](image-2.png)
+![CalculateTriangle()](./Assets/image-2%20copy.png)
 ```
 Rectanglee
 ```
-![CalculateRectanglee()](image-3.png)
+![CalculateRectanglee()](./Assets/image-3.png)
 
 ***
 + Finally, the program waits for the user to press the Enter key before terminating.
