@@ -19,6 +19,7 @@ namespace GeometricShapesCalculator
             Console.WriteLine("2. Rectangle");
             Console.WriteLine("3. Circle");
             int choice = int.Parse(Console.ReadLine());
+            Console.Clear();
 
             switch (choice)
             {
@@ -36,6 +37,7 @@ namespace GeometricShapesCalculator
                     break;
             }
             Console.ReadLine();
+            Console.Clear();
         }
     }
 }

@@ -12,10 +12,11 @@ namespace GeometricShapesCalculator.Classes
         {
             Console.WriteLine("Enter the base length of the triangle:");
             double baseLength = double.Parse(Console.ReadLine());
-
+            Console.Clear();
             Console.WriteLine("Enter the height of the triangle:");
-            double height = double.Parse(Console.ReadLine());
-
+            double height = 
+            double.Parse(Console.ReadLine());
+            Console.Clear();
             double area = (baseLength * height) / 2;
             Console.WriteLine("The area of the triangle is: " + area);
 
