@@ -33,7 +33,9 @@ Rectanglee
 ![CalculateRectanglee()](./Assets/image-3.png)
 ***
 # Result:
-[Result](./Assets/result.gif)
+
+![result](./Assets/result.gif)
+
 ***
 + Finally, the program waits for the user to press the Enter key before terminating.
 + This program uses basic input and output operations, mathematical operations, and conditional statements to perform shape calculations based on user input.
